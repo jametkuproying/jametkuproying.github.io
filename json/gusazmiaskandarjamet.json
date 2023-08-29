@@ -20,11 +20,11 @@
 
       "interval_intertitial"      : 5,
 
-      "high_paying_keyword_1"     : "asuransi",
-      "high_paying_keyword_2"     : "asuransi mobil",
-      "high_paying_keyword_3"     : "asuransi kendaraan",
-      "high_paying_keyword_4"     : "asuransi pendidikan",
-      "high_paying_keyword_5"     : "asuransi kecelakaan",
+      "high_paying_keyword_1"     : "life insurance",
+      "high_paying_keyword_2"     : "health insurance",
+      "high_paying_keyword_3"     : "education insurance",
+      "high_paying_keyword_4"     : "architect",
+      "high_paying_keyword_5"     : "car insurance",
 
       "status_app": "0",
       "link_redirect": "https://"
